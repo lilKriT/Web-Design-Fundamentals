@@ -58,7 +58,7 @@ https://webgradients.com
 
 # Project Lifecycle
 
-Brief -> Wireframe -> Color Palette -> Typography
+Brief -> Wireframe -> Color Palette -> Typography -> Spacing and Sizing
 
 ## Brief
 
@@ -130,3 +130,14 @@ You can create text styles for them.
 
 https://typescale.com
 https://archetypeapp.com
+
+## Spacing and Sizing
+
+Creates whitespace.
+Dictates visual hierarchy.
+
+8 point system - use multiples of 8 for every size.
+For example, button with vertical padding of 8px and horizontal padding of 32px.
+
+You can use 12 column system too
+Or guides (aka ruler)
