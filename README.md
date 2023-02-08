@@ -58,7 +58,7 @@ https://webgradients.com
 
 # Project Lifecycle
 
-Brief -> Wireframe -> Color Palette
+Brief -> Wireframe -> Color Palette -> Typography
 
 ## Brief
 
@@ -88,3 +88,45 @@ Then make the same color, but 75%, 50%, 25%, 10% and 5%. Call them Black 100, Bl
 ### Contextual:
 
 Aka an error color. Usually some kind of red.
+
+## Typograhy
+
+Possibly the most important part.
+
+Where to get fonts?
+Find:
+The best places are google fonts (good and free) and adobe fonts (better but paid).
+or buy:
+For example Envato.
+
+Understand your brand and audience.
+Luxury: Serif font
+Tech: Sans Serif - modern and trustworthy.
+
+Important things:
+readability
+loading time
+
+They have roles and attributes.
+Roles:
+headings
+paragraphs
+
+Attributes:
+weight, size, line height
+
+Use typescales.
+Font pairings / combinations.
+
+Make a new screen in assets page, called typography.
+Make following elements with example values:
+paragraph - 21px, line-height: 30, black 75
+heading 1, 2, 3... - values from typeface, bold
+
+Headings are usually bold, but it's a nice accent to make heading 3 light.
+You can create text styles for them.
+
+### Tools
+
+https://typescale.com
+https://archetypeapp.com
