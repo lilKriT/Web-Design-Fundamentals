@@ -58,7 +58,7 @@ https://webgradients.com
 
 # Project Lifecycle
 
-Brief -> Wireframe -> Color Palette -> Typography -> Spacing and Sizing
+Brief -> Wireframe -> Color Palette -> Typography -> Spacing and Sizing -> Icons and Images
 
 ## Brief
 
@@ -141,3 +141,31 @@ For example, button with vertical padding of 8px and horizontal padding of 32px.
 
 You can use 12 column system too
 Or guides (aka ruler)
+
+## Icons
+
+Icons have to be meaningful.
+For example: send message and paper plane.
+Or standalone icons, like social media.
+
+They need a consistent style:
+
+- outline
+- solid
+- duotone
+
+### Collections
+
+FontAwesome
+HeroIcons
+Ionic
+Forge Icons
+Bootstrap Icons
+Envato Elements
+
+Tool for organizing icons:
+Iconset
+
+## Images
+
+Try not to use stock photos. Real pictures will help more if possible.
