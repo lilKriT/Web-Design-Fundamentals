@@ -67,3 +67,24 @@ A description of the project. Contains logos, text, colors, information on the c
 ## Wireframe
 
 A very basic design on the website. Usually doesn't contain style elements like text alignment, images, colors, fonts...
+
+## Color Palette
+
+Primary Color -> Secondary Color -> Gradient -> Neutrals -> Contextual
+
+### Primary:
+
+Start with a single color (might be clients choice or something with existing assets, or color psychology)
+Go to adobe color. Pick a harmony and use the chosen colors.
+Have a Page called "Assets" in Figma. Store the colors in circles, and use "styles" feature to call colors "primary" etc.
+Create a gradient if you need to.
+
+### Neutrals:
+
+Don't use pure black, even for text. Just use very dark gray.
+You can use your primary color and mix it with gray.
+Then make the same color, but 75%, 50%, 25%, 10% and 5%. Call them Black 100, Black 75...
+
+### Contextual:
+
+Aka an error color. Usually some kind of red.
