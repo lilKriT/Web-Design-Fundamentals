@@ -58,7 +58,7 @@ https://webgradients.com
 
 # Project Lifecycle
 
-Brief -> Wireframe -> Color Palette -> Typography -> Spacing and Sizing -> Icons and Images
+Brief -> Wireframe -> Color Palette -> Typography -> Spacing and Sizing -> Icons and Images -> Design!
 
 ## Brief
 
@@ -169,3 +169,16 @@ Iconset
 ## Images
 
 Try not to use stock photos. Real pictures will help more if possible.
+
+# Website Patterns
+
+Those are just general guidelines. You can change them as long as the website looks good and is useful.
+
+## Header
+
+Usually the top section of the page that contains:
+
+- logo
+- navigation menu
+- call to action
+- search form?
