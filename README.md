@@ -182,3 +182,31 @@ Usually the top section of the page that contains:
 - navigation menu
 - call to action
 - search form?
+
+## Hero
+
+Area next to, or just under the header. It's considered prime real estate, because it's above the fold.
+Critical information, call to action.
+Often contains a slider.
+
+## Buttons
+
+They can either be used for features or navigation.
+You can have multiple styles. Text, icon, both.
+Be explicit in wording.
+Consider different states:
+
+- default
+- mouse over
+- active
+- disabled
+
+Usually it's good to have 2 styles of buttons, one more accentuated.
+
+## Image Gallery
+
+Displaying a collection of images, allowing to see several items at once.
+Useful for shops too (multiple angles, variations).
+Slideshows.
+Lightboxes.
+For the background of an image, you can use a color from the image itself.
