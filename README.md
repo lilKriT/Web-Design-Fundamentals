@@ -210,3 +210,23 @@ Useful for shops too (multiple angles, variations).
 Slideshows.
 Lightboxes.
 For the background of an image, you can use a color from the image itself.
+
+## Footer
+
+An area at the bottom of every page on a website, below the main content.
+Usually have information helping with usability of the website.
+A navigation bar, cta button.
+Copyright text, links to external resources, social media icons.
+Location / language selector.
+Cookie settings, privacy policy, terms and conditions.
+Scroll to top.
+
+It may have more than one section.
+
+## Testimonials
+
+Good things your clients say about your business. Use them to build credibility.
+Never use fake ones.
+
+Most of the time they have a quote, name and possibly a picture.
+If there's just one, it can be a block of content. Usually it's a slider of few, less often tabs.
