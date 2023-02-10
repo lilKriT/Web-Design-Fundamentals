@@ -230,3 +230,15 @@ Never use fake ones.
 
 Most of the time they have a quote, name and possibly a picture.
 If there's just one, it can be a block of content. Usually it's a slider of few, less often tabs.
+
+## Tab Controls
+
+An element with multiple panels, where only one panel is visible at a time.
+To switch panels, user interaction is needed.
+Used for displaying large amount of content in a relatively small area.
+
+## Accordion
+
+Element with multiple panels were more than one can be visible at once.
+Usually used for simpler content, like text.
+For example, FAQ.
