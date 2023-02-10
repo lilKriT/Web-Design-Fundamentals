@@ -58,7 +58,7 @@ https://webgradients.com
 
 # Project Lifecycle
 
-Brief -> Wireframe -> Color Palette -> Typography -> Spacing and Sizing -> Icons and Images -> Design!
+Brief -> Wireframe -> Color Palette -> Typography -> Spacing and Sizing -> Icons and Images -> Design! -> Responsiveness
 
 ## Brief
 
@@ -242,3 +242,29 @@ Used for displaying large amount of content in a relatively small area.
 Element with multiple panels were more than one can be visible at once.
 Usually used for simpler content, like text.
 For example, FAQ.
+
+## Contact Form
+
+Keep it simple. Make it as easy as possible to contact you.
+Name, email and message is enough.
+If you have a big organization it's ok to add more.
+Usually one column, sometimes two.
+Label on top of the field.
+
+Remember to style input fields for states:
+
+- normal
+- hover
+- focus
+- disabled
+
+# Responsiveness
+
+Usual ranges to aim for:
+1920 - 1200
+1200 - 600
+600 and less
+
+Remember about mobile menu
+You might need another typescale.
+Reduce white space a bit.
